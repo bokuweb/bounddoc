@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+    <dc:title />
+    <dc:subject />
+    <dc:creator>Satoshi Ueki</dc:creator>
+    <keywords />
+    <lastModifiedBy>Satoshi Ueki</lastModifiedBy>
+    <revision>4</revision>
+    <dcterms:created xsi:type="dcterms:W3CDTF">2019-04-01T04:13:22.4409435Z</dcterms:created>
+    <dcterms:modified xsi:type="dcterms:W3CDTF">2019-04-01T12:41:41.1412525Z</dcterms:modified>
+</coreProperties>

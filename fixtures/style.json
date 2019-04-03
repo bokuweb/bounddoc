@@ -1,0 +1,4794 @@
+{
+  "type": "element",
+  "attributes": {
+    "{http://www.w3.org/2000/xmlns/}mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+    "{http://www.w3.org/2000/xmlns/}r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+    "{http://www.w3.org/2000/xmlns/}w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+    "{http://www.w3.org/2000/xmlns/}w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+    "mc:Ignorable": "w14"
+  },
+  "children": [
+    {
+      "type": "element",
+      "attributes": {},
+      "children": [
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:ascii": "Century",
+                    "w:hAnsi": "Century",
+                    "w:eastAsia": "ＭＳ 明朝",
+                    "w:cs": "Times New Roman"
+                  },
+                  "children": [],
+                  "name": "w:rFonts"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "en-US",
+                    "w:eastAsia": "ja-JP",
+                    "w:bidi": "ar-SA"
+                  },
+                  "children": [],
+                  "name": "w:lang"
+                }
+              ],
+              "name": "w:rPr"
+            }
+          ],
+          "name": "w:rPrDefault"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:pPrDefault"
+        }
+      ],
+      "name": "w:docDefaults"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:defLockedState": "0",
+        "w:defUIPriority": "0",
+        "w:defSemiHidden": "0",
+        "w:defUnhideWhenUsed": "0",
+        "w:defQFormat": "0",
+        "w:count": "276"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Normal",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 4",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 5",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 6",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 7",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 8",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "heading 9",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "caption",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Title",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Subtitle",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Strong",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Emphasis",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Normal Table",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Simple 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Simple 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Simple 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Classic 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Classic 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Classic 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Classic 4",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Colorful 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Colorful 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Colorful 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Columns 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Columns 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Columns 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Columns 4",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Columns 5",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 4",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 5",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 6",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 7",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid 8",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 4",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 5",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 6",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 7",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table List 8",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table 3D effects 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table 3D effects 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table 3D effects 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Contemporary",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Elegant",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Professional",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Subtle 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Subtle 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Web 1",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Web 2",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Web 3",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Grid",
+            "w:uiPriority": "39"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Table Theme",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Placeholder Text",
+            "w:uiPriority": "99",
+            "w:semiHidden": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "No Spacing",
+            "w:uiPriority": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading Accent 1",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List Accent 1",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid Accent 1",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1 Accent 1",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2 Accent 1",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1 Accent 1",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Revision",
+            "w:uiPriority": "99",
+            "w:semiHidden": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "List Paragraph",
+            "w:uiPriority": "34",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Quote",
+            "w:uiPriority": "29",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Intense Quote",
+            "w:uiPriority": "30",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2 Accent 1",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1 Accent 1",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2 Accent 1",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3 Accent 1",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List Accent 1",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading Accent 1",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List Accent 1",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid Accent 1",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading Accent 2",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List Accent 2",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid Accent 2",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1 Accent 2",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2 Accent 2",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1 Accent 2",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2 Accent 2",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1 Accent 2",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2 Accent 2",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3 Accent 2",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List Accent 2",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading Accent 2",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List Accent 2",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid Accent 2",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading Accent 3",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List Accent 3",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid Accent 3",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1 Accent 3",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2 Accent 3",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1 Accent 3",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2 Accent 3",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1 Accent 3",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2 Accent 3",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3 Accent 3",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List Accent 3",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading Accent 3",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List Accent 3",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid Accent 3",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading Accent 4",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List Accent 4",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid Accent 4",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1 Accent 4",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2 Accent 4",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1 Accent 4",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2 Accent 4",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1 Accent 4",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2 Accent 4",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3 Accent 4",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List Accent 4",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading Accent 4",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List Accent 4",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid Accent 4",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading Accent 5",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List Accent 5",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid Accent 5",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1 Accent 5",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2 Accent 5",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1 Accent 5",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2 Accent 5",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1 Accent 5",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2 Accent 5",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3 Accent 5",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List Accent 5",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading Accent 5",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List Accent 5",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid Accent 5",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Shading Accent 6",
+            "w:uiPriority": "60"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light List Accent 6",
+            "w:uiPriority": "61"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Light Grid Accent 6",
+            "w:uiPriority": "62"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 1 Accent 6",
+            "w:uiPriority": "63"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Shading 2 Accent 6",
+            "w:uiPriority": "64"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 1 Accent 6",
+            "w:uiPriority": "65"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium List 2 Accent 6",
+            "w:uiPriority": "66"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 1 Accent 6",
+            "w:uiPriority": "67"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 2 Accent 6",
+            "w:uiPriority": "68"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Medium Grid 3 Accent 6",
+            "w:uiPriority": "69"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Dark List Accent 6",
+            "w:uiPriority": "70"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Shading Accent 6",
+            "w:uiPriority": "71"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful List Accent 6",
+            "w:uiPriority": "72"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Colorful Grid Accent 6",
+            "w:uiPriority": "73"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Subtle Emphasis",
+            "w:uiPriority": "19",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Intense Emphasis",
+            "w:uiPriority": "21",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Subtle Reference",
+            "w:uiPriority": "31",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Intense Reference",
+            "w:uiPriority": "32",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Book Title",
+            "w:uiPriority": "33",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "Bibliography",
+            "w:uiPriority": "37",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:name": "TOC Heading",
+            "w:uiPriority": "39",
+            "w:semiHidden": "1",
+            "w:unhideWhenUsed": "1",
+            "w:qFormat": "1"
+          },
+          "children": [],
+          "name": "w:lsdException"
+        }
+      ],
+      "name": "w:latentStyles"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "a0",
+        "w:default": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Normal"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:qFormat"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:widowControl"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "both"
+              },
+              "children": [],
+              "name": "w:jc"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "baseline"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "heading 1"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:next"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:qFormat"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:keepNext"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:widowControl"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:line": "400",
+                "w:lineRule": "atLeast"
+              },
+              "children": [],
+              "name": "w:spacing"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "center"
+              },
+              "children": [],
+              "name": "w:jc"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:outlineLvl"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "ＭＳ 明朝",
+                "w:hAnsi": "Arial"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:noProof"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "28"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "a1",
+        "w:default": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Default Paragraph Font"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "1"
+          },
+          "children": [],
+          "name": "w:uiPriority"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:semiHidden"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:unhideWhenUsed"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "table",
+        "w:styleId": "a2",
+        "w:default": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Normal Table"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "99"
+          },
+          "children": [],
+          "name": "w:uiPriority"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:semiHidden"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:unhideWhenUsed"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:w": "0",
+                "w:type": "dxa"
+              },
+              "children": [],
+              "name": "w:tblInd"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "0",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:top"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "108",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:left"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "0",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:bottom"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "108",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:right"
+                }
+              ],
+              "name": "w:tblCellMar"
+            }
+          ],
+          "name": "w:tblPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "numbering",
+        "w:styleId": "a3",
+        "w:default": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "No List"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "99"
+          },
+          "children": [],
+          "name": "w:uiPriority"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:semiHidden"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:unhideWhenUsed"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "10",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "本文1"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:line": "320",
+                "w:lineRule": "atLeast"
+              },
+              "children": [],
+              "name": "w:spacing"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "both"
+              },
+              "children": [],
+              "name": "w:jc"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "baseline"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "ＭＳ 明朝"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:noProof"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "2",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "本文2"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:next"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:firstLine": "210"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "a4",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "表文字"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:autoSpaceDE"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:autoSpaceDN"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:line": "210",
+                "w:lineRule": "exact"
+              },
+              "children": [],
+              "name": "w:spacing"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "57",
+                "w:right": "57"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "a5",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "条"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "1049"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "210",
+                "w:hanging": "210"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "a6",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "項"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "420"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "210",
+                "w:hanging": "210"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "a7",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "附則"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "2"
+          },
+          "children": [],
+          "name": "w:next"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:firstLine": "630"
+              },
+              "children": [],
+              "name": "w:ind"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "left"
+              },
+              "children": [],
+              "name": "w:jc"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "a8",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "行頭ゴシック"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "ＭＳ ゴシック",
+                "w:eastAsia": "ＭＳ ゴシック"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "20",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "条2"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "629"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "420",
+                "w:hanging": "210"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "a9",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "カッコ文字"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "Kakkofont",
+                "w:hAnsi": "Kakkofont"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:color"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "21",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "注2"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "1049"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "964",
+                "w:hanging": "227"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "aa",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "注"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "21"
+          },
+          "children": [],
+          "name": "w:next"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "737"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "953",
+                "w:hanging": "743"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "ab",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "丸文字"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "MaruFont",
+                "w:hAnsi": "MaruFont"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:color"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "5",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "条5"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "1259"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "1049",
+                "w:hanging": "210"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "ac"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Date"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:next"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "ad"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "footer"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:widowControl"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "center",
+                    "w:pos": "4252"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "right",
+                    "w:pos": "8504"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "left"
+              },
+              "children": [],
+              "name": "w:jc"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:noProof"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "20"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "ae"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "page number"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a1"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "様式"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:next"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "ＭＳ ゴシック",
+                "w:eastAsia": "ＭＳ ゴシック"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "11",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "条1"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "10"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "left",
+                    "w:pos": "839"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "210",
+                "w:hanging": "210"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "3"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Body Text Indent 3"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:widowControl"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:overflowPunct"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:autoSpaceDE"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:autoSpaceDN"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:firstLine": "480",
+                "w:firstLineChars": "200"
+              },
+              "children": [],
+              "name": "w:ind"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "left"
+              },
+              "children": [],
+              "name": "w:jc"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "ＭＳ Ｐ明朝",
+                "w:hAnsi": "Times New Roman",
+                "w:eastAsia": "ＭＳ Ｐ明朝"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af0",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "一太郎８/９"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:widowControl"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:wordWrap"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:autoSpaceDE"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:autoSpaceDN"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:line": "362",
+                "w:lineRule": "atLeast"
+              },
+              "children": [],
+              "name": "w:spacing"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "both"
+              },
+              "children": [],
+              "name": "w:jc"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "Times New Roman",
+                "w:hAnsi": "Times New Roman"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "13"
+              },
+              "children": [],
+              "name": "w:spacing"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Plain Text"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "ＭＳ 明朝",
+                "w:hAnsi": "Courier New",
+                "w:cs": "Century"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "a",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "条文"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "22"
+                  },
+                  "children": [],
+                  "name": "w:numId"
+                }
+              ],
+              "name": "w:numPr"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af2",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "号"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "420",
+                "w:leftChars": "100",
+                "w:hanging": "210",
+                "w:hangingChars": "100"
+              },
+              "children": [],
+              "name": "w:ind"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af3",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "※"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "400",
+                "w:hanging": "400",
+                "w:hangingChars": "200"
+              },
+              "children": [],
+              "name": "w:ind"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:i"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:iCs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "808080"
+              },
+              "children": [],
+              "name": "w:color"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "20"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af4"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "header"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "af5"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "center",
+                    "w:pos": "4252"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "right",
+                    "w:pos": "8504"
+                  },
+                  "children": [],
+                  "name": "w:tab"
+                }
+              ],
+              "name": "w:tabs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:snapToGrid"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "x-none",
+                "w:eastAsia": "x-none"
+              },
+              "children": [],
+              "name": "w:lang"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "xl30",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "xl30"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:widowControl"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:top"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:left"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:bottom"
+                }
+              ],
+              "name": "w:pBdr"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:before": "100",
+                "w:beforeAutospacing": "1",
+                "w:after": "100",
+                "w:afterAutospacing": "1"
+              },
+              "children": [],
+              "name": "w:spacing"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "left"
+              },
+              "children": [],
+              "name": "w:jc"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "center"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "Arial Unicode MS",
+                "w:hAnsi": "Arial Unicode MS",
+                "w:eastAsia": "Arial Unicode MS",
+                "w:cs": "Arial Unicode MS"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af6"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Body Text Indent"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:left": "1050",
+                "w:leftChars": "500"
+              },
+              "children": [],
+              "name": "w:ind"
+            }
+          ],
+          "name": "w:pPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "af7"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Strong"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:qFormat"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:b"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:bCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "af8"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Balloon Text"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "af9"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "Arial",
+                "w:hAnsi": "Arial",
+                "w:eastAsia": "ＭＳ ゴシック"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "18"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "18"
+              },
+              "children": [],
+              "name": "w:szCs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "x-none",
+                "w:eastAsia": "x-none"
+              },
+              "children": [],
+              "name": "w:lang"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "af9",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "吹き出し (文字)"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "af8"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:ascii": "Arial",
+                "w:hAnsi": "Arial",
+                "w:eastAsia": "ＭＳ ゴシック",
+                "w:cs": "Times New Roman"
+              },
+              "children": [],
+              "name": "w:rFonts"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "18"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "18"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "af5",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "ヘッダー (文字)"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "af4"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "afa"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "annotation reference"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "18"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "18"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "afb"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "annotation text"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a0"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "afc"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "left"
+              },
+              "children": [],
+              "name": "w:jc"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "auto"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "afc",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "コメント文字列 (文字)"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "afb"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "afd"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "annotation subject"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "afb"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "afb"
+          },
+          "children": [],
+          "name": "w:next"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "afe"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "0"
+              },
+              "children": [],
+              "name": "w:adjustRightInd"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "baseline"
+              },
+              "children": [],
+              "name": "w:textAlignment"
+            }
+          ],
+          "name": "w:pPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:b"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:bCs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "20"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "character",
+        "w:styleId": "afe",
+        "w:customStyle": "1"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "コメント内容 (文字)"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "afd"
+          },
+          "children": [],
+          "name": "w:link"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:b"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [],
+              "name": "w:bCs"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "24"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "paragraph",
+        "w:styleId": "aff"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Revision"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:hidden"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "99"
+          },
+          "children": [],
+          "name": "w:uiPriority"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [],
+          "name": "w:semiHidden"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "006C52D4"
+          },
+          "children": [],
+          "name": "w:rsid"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            }
+          ],
+          "name": "w:rPr"
+        }
+      ],
+      "name": "w:style"
+    },
+    {
+      "type": "element",
+      "attributes": {
+        "w:type": "table",
+        "w:styleId": "aff0"
+      },
+      "children": [
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "Table Grid"
+          },
+          "children": [],
+          "name": "w:name"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "a2"
+          },
+          "children": [],
+          "name": "w:basedOn"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "39"
+          },
+          "children": [],
+          "name": "w:uiPriority"
+        },
+        {
+          "type": "element",
+          "attributes": {
+            "w:val": "00EB32D2"
+          },
+          "children": [],
+          "name": "w:rsid"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "2"
+              },
+              "children": [],
+              "name": "w:kern"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "21"
+              },
+              "children": [],
+              "name": "w:sz"
+            },
+            {
+              "type": "element",
+              "attributes": {
+                "w:val": "22"
+              },
+              "children": [],
+              "name": "w:szCs"
+            }
+          ],
+          "name": "w:rPr"
+        },
+        {
+          "type": "element",
+          "attributes": {},
+          "children": [
+            {
+              "type": "element",
+              "attributes": {
+                "w:w": "0",
+                "w:type": "dxa"
+              },
+              "children": [],
+              "name": "w:tblInd"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:top"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:left"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:bottom"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:right"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:insideH"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:val": "single",
+                    "w:color": "auto",
+                    "w:sz": "4",
+                    "w:space": "0"
+                  },
+                  "children": [],
+                  "name": "w:insideV"
+                }
+              ],
+              "name": "w:tblBorders"
+            },
+            {
+              "type": "element",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "0",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:top"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "108",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:left"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "0",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:bottom"
+                },
+                {
+                  "type": "element",
+                  "attributes": {
+                    "w:w": "108",
+                    "w:type": "dxa"
+                  },
+                  "children": [],
+                  "name": "w:right"
+                }
+              ],
+              "name": "w:tblCellMar"
+            }
+          ],
+          "name": "w:tblPr"
+        }
+      ],
+      "name": "w:style"
+    }
+  ],
+  "name": "w:styles"
+}

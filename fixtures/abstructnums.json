@@ -1,0 +1,2462 @@
+{
+  "0": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        // "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "1": {
+    "levels": {
+      "0": {
+        "numFmt": "bullet",
+        "lvlText": "※",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "bullet",
+        "lvlText": "",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "2": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "3": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "4": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "(%1) ",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "5": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "6": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "7": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "8": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "(%1)",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "9": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "10": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "11": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "12": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "13": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "14": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "15": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "16": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "17": {
+    "levels": {
+      "0": {
+        "numFmt": "bullet",
+        "lvlText": "※",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "18": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "19": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "20": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "21": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "22": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "23": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "第%1条",
+        "pStyle": "a",
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%2",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "bullet",
+        "lvlText": "※",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "bullet",
+        "lvlText": "※",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "ideographDigital",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "bullet",
+        "lvlText": "※",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "24": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "25": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "26": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "(%1)",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%2条",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%3条",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "27": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "第%1条",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "28": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "29": {
+    "levels": {
+      "0": {
+        "numFmt": "decimalFullWidth",
+        "lvlText": "（%1）",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%3",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%6",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "aiueoFullWidth",
+        "lvlText": "(%8)",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimalEnclosedCircle",
+        "lvlText": "%9",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "30": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1)",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "right"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "right"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "right"
+      }
+    },
+    "numStyleLink": null
+  },
+  "31": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1.",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.%4.%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.%4.%5.%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "left"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.%4.%5.%6.%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.%4.%5.%6.%7.%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "decimal",
+        "lvlText": "%1.%2.%3.%4.%5.%6.%7.%8.%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "left"
+      }
+    },
+    "numStyleLink": null
+  },
+  "32": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1.",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "right"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "right"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "right"
+      }
+    },
+    "numStyleLink": null
+  },
+  "33": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1)",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%2)",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%3)",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "right"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "(%4)",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "lowerLetter",
+        "lvlText": "(%5)",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "lowerRoman",
+        "lvlText": "(%6)",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "right"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "right"
+      }
+    },
+    "numStyleLink": null
+  },
+  "34": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1.",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "right"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "right"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "right"
+      }
+    },
+    "numStyleLink": null
+  },
+  "35": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1.",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "right"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "right"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "right"
+      }
+    },
+    "numStyleLink": null
+  },
+  "36": {
+    "levels": {
+      "0": {
+        "numFmt": "decimal",
+        "lvlText": "%1.",
+        "pStyle": null,
+        "level": "0",
+        "lvlJc": "left"
+      },
+      "1": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%2.",
+        "pStyle": null,
+        "level": "1",
+        "lvlJc": "left"
+      },
+      "2": {
+        "numFmt": "decimal",
+        "lvlText": "%3.",
+        "pStyle": null,
+        "level": "2",
+        "lvlJc": "left"
+      },
+      "3": {
+        "numFmt": "decimal",
+        "lvlText": "%4.",
+        "pStyle": null,
+        "level": "3",
+        "lvlJc": "left"
+      },
+      "4": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%5.",
+        "pStyle": null,
+        "level": "4",
+        "lvlJc": "left"
+      },
+      "5": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%6.",
+        "pStyle": null,
+        "level": "5",
+        "lvlJc": "right"
+      },
+      "6": {
+        "numFmt": "decimal",
+        "lvlText": "%7.",
+        "pStyle": null,
+        "level": "6",
+        "lvlJc": "left"
+      },
+      "7": {
+        "numFmt": "lowerLetter",
+        "lvlText": "%8.",
+        "pStyle": null,
+        "level": "7",
+        "lvlJc": "left"
+      },
+      "8": {
+        "numFmt": "lowerRoman",
+        "lvlText": "%9.",
+        "pStyle": null,
+        "level": "8",
+        "lvlJc": "right"
+      }
+    },
+    "numStyleLink": null
+  }
+}

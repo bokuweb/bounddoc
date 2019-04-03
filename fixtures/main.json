@@ -1,0 +1,5482 @@
+{
+  "type": "element",
+  "value": "",
+  "attributes": {
+    "{http://www.w3.org/2000/xmlns/}wpc": "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
+    "{http://www.w3.org/2000/xmlns/}mo": "http://schemas.microsoft.com/office/mac/office/2008/main",
+    "{http://www.w3.org/2000/xmlns/}mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+    "{http://www.w3.org/2000/xmlns/}mv": "urn:schemas-microsoft-com:mac:vml",
+    "{http://www.w3.org/2000/xmlns/}o": "urn:schemas-microsoft-com:office:office",
+    "{http://www.w3.org/2000/xmlns/}r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+    "{http://www.w3.org/2000/xmlns/}m": "http://schemas.openxmlformats.org/officeDocument/2006/math",
+    "{http://www.w3.org/2000/xmlns/}v": "urn:schemas-microsoft-com:vml",
+    "{http://www.w3.org/2000/xmlns/}wp14": "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing",
+    "{http://www.w3.org/2000/xmlns/}wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+    "{http://www.w3.org/2000/xmlns/}w10": "urn:schemas-microsoft-com:office:word",
+    "{http://www.w3.org/2000/xmlns/}w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+    "{http://www.w3.org/2000/xmlns/}w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+    "{http://www.w3.org/2000/xmlns/}wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+    "{http://www.w3.org/2000/xmlns/}wpi": "http://schemas.microsoft.com/office/word/2010/wordprocessingInk",
+    "{http://www.w3.org/2000/xmlns/}wne": "http://schemas.microsoft.com/office/word/2006/wordml",
+    "{http://www.w3.org/2000/xmlns/}wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+    "mc:Ignorable": "w14 wp14"
+  },
+  "children": [
+    {
+      "type": "element",
+      "value": "",
+      "attributes": {},
+      "children": [
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A82EC9",
+            "w:rsidP": "01B47A91",
+            "w:rsidRDefault": "00A82EC9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "22D1EA90",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "75B9F3B4"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "right"
+                  },
+                  "children": [],
+                  "name": "w:jc"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "01B47A91"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "テスト  "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "01B47A91"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "                   "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "01B47A91"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "asdad"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "01B47A91"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "     "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:name": "_GoBack",
+                "w:id": "0"
+              },
+              "children": [],
+              "name": "w:bookmarkStart"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:id": "0"
+              },
+              "children": [],
+              "name": "w:bookmarkEnd"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A82EC9",
+            "w:rsidP": "00A82EC9",
+            "w:rsidRDefault": "00A82EC9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "16527420",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "1A0EE3B6"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "center"
+                  },
+                  "children": [],
+                  "name": "w:jc"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A82EC9",
+            "w:rsidP": "00A82EC9",
+            "w:rsidRDefault": "00A82EC9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "226E00AC",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "3EC87C58"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "center"
+                  },
+                  "children": [],
+                  "name": "w:jc"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:hint": "eastAsia"
+                      },
+                      "children": [],
+                      "name": "w:rFonts"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "01B47A91"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "契約書"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "01B47A91",
+            "w:rsidP": "01B47A91",
+            "w:rsidRDefault": "01B47A91",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "53D2EA7D",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "6343368F"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "center"
+                  },
+                  "children": [],
+                  "name": "w:jc"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "01B47A91",
+            "w:rsidP": "01B47A91",
+            "w:rsidRDefault": "01B47A91",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "7186A39E",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "34D811D3"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "center"
+                  },
+                  "children": [],
+                  "name": "w:jc"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "711C97EE",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "（定義）"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "70FD704E",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "0"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "9"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "本契約書において、次に掲げる用語は次の定義によるものとする。"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidP": "50DF4DC3",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "00846796",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "1CAB8D6A"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "420",
+                    "w:leftChars": "100",
+                    "w:hanging": "210",
+                    "w:hangingChars": "100"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:ascii": "ＭＳ 明朝",
+                        "w:hAnsi": "ＭＳ 明朝"
+                      },
+                      "children": [],
+                      "name": "w:rFonts"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "一　"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Test"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "72868E1A",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:line": "240",
+                    "w:lineRule": "auto"
+                  },
+                  "children": [],
+                  "name": "w:spacing"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "237",
+                    "w:hanging": "237",
+                    "w:hangingChars": "113"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:hAnsi": "ＭＳ 明朝"
+                      },
+                      "children": [],
+                      "name": "w:rFonts"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "2F066685",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "046E29FC"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "2"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "（共同）"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "2397D110",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "39597600"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "a5"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "0",
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "第２条　甲、乙及び丙は、次の"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "を設置し、"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "を実施するものとする。"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "123C1700",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "3BC13342"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "1"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "37"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": " "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "(１)　"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "の名称："
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "2505C349",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "3756B234"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "1"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "37"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Aaaaaaaa"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "4A7FD7D6",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "6DF2DABD"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "2"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "37"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Aaa"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "71AFAA52",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "6278CABD"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "2"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "37"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Aaa"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "68876F2F",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "434DAAEB"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "3"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "37"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Aaaaa"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "3034E137",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "29B6EF61"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "4"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "37"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Aaaaa"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5EBFCF52",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "7D4FA1CD"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "2"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "38"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "aaaa"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "264B19B8",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "0E2A5832",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:hangingChars": "100"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "(２)　"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "の目的及び課題"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "2A265C98",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:leftChars": "100",
+                    "w:firstLine": "210",
+                    "w:firstLineChars": "100"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:hint": "eastAsia"
+                      },
+                      "children": [],
+                      "name": "w:rFonts"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "【目的】"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "004F02D2",
+            "w:rsidRDefault": "004F02D2",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "1CBB0844",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:leftChars": "100",
+                    "w:firstLine": "210",
+                    "w:firstLineChars": "100"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "4E38D266",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "3D255195"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:leftChars": "100",
+                    "w:firstLine": "210",
+                    "w:firstLineChars": "100"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "【"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "内容】"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "004F02D2",
+            "w:rsidRDefault": "004F02D2",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "74EC67A5",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "2C5127EB",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:hint": "eastAsia"
+                      },
+                      "children": [],
+                      "name": "w:rFonts"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "(３)　役割分担（別表第１のとおり）"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "40752954",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "370EF529"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "(４)　"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "AA"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "69BF55E0",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:top"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "4"
+                      },
+                      "children": [],
+                      "name": "w:left"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "1"
+                      },
+                      "children": [],
+                      "name": "w:bottom"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "dashed",
+                        "w:color": "auto",
+                        "w:sz": "4",
+                        "w:space": "0"
+                      },
+                      "children": [],
+                      "name": "w:right"
+                    }
+                  ],
+                  "name": "w:pBdr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "210",
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "(５)　設置場所："
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5419BF43",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "1ED324DB"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "0"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "32"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ddd"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5DBA1166",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "1795BAC5"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "0"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "32"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": " "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5EAA8944",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "6B52F257"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "      "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "6332B912",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "25DE776D"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "0"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "33"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "              "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "51CE8E5D",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "2AA59359"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "0",
+                    "w:hanging": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "1.1"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "4E196314",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "46282C47"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "0",
+                    "w:hanging": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "1.2 "
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "6BA3F3E1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "48A425D7"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "0"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "35"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "22E43633",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "675528D0"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "0"
+                      },
+                      "children": [],
+                      "name": "w:ilvl"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "35"
+                      },
+                      "children": [],
+                      "name": "w:numId"
+                    }
+                  ],
+                  "name": "w:numPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:sz"
+                    },
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "1CF09CE9"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "1.1.1"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "1CF09CE9",
+            "w:rsidP": "1CF09CE9",
+            "w:rsidRDefault": "1CF09CE9",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5A6A5F3E",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "2711DB67"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "20"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:left": "0",
+                    "w:hanging": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidRPr": "009C2A23",
+            "w:rsidR": "009C2A23",
+            "w:rsidP": "007A38C7",
+            "w:rsidRDefault": "009C2A23",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "6C4E74D3",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "10"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "18E4A58F",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "a5"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:hint": "eastAsia"
+                      },
+                      "children": [],
+                      "name": "w:rFonts"
+                    }
+                  ],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "（設置期間）"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "16B02FCD",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "27A8C393"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "a5"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "第３条　"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "の設置期間は、平成"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "x"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "年"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "x"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "月"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "x"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "日から平成"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "x"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "年"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "x"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "月"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "x"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "日までとする。"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "00267E94",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "77777777"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "2"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5FD2A298",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "1B875F90"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "2"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:firstLine": "0"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "（"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "における"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "に従事する者）"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "2EB48F37",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "517BF948"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "a5"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "第４条　甲"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "、"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "乙及び丙は、それぞれ別表第１に掲げる"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "A"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "に参加させる。"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "5FE70BB8",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "216AF9D1"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "a6"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:hangingChars": "100"
+                  },
+                  "children": [],
+                  "name": "w:ind"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "２　甲"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "、"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:rsidR": "50DF4DC3"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [],
+                  "name": "w:rPr"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "乙及び丙は、あらかじめ相手方に書面により通知し同意を得なければならない。"
+                    }
+                  ],
+                  "name": "w:t"
+                }
+              ],
+              "name": "w:r"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B",
+            "w:rsidRDefault": "00A4499B",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}paraId": "20CE4423",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}noSpellErr": "1",
+            "{http://schemas.microsoft.com/office/word/2010/wordml}textId": "726C0081"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {
+                    "w:val": "a6"
+                  },
+                  "children": [],
+                  "name": "w:pStyle"
+                },
+                {
+                  "type": "element",
+                  "value": "",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "value": "",
+                      "attributes": {
+                        "w:val": "21"
+                      },
+                      "children": [],
+                      "name": "w:szCs"
+                    }
+                  ],
+                  "name": "w:rPr"
+                }
+              ],
+              "name": "w:pPr"
+            }
+          ],
+          "name": "w:p"
+        },
+        {
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "w:rsidR": "00A4499B"
+          },
+          "children": [
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "even",
+                "r:id": "rId9"
+              },
+              "children": [],
+              "name": "w:headerReference"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "default",
+                "r:id": "rId10"
+              },
+              "children": [],
+              "name": "w:headerReference"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "even",
+                "r:id": "rId11"
+              },
+              "children": [],
+              "name": "w:footerReference"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "default",
+                "r:id": "rId12"
+              },
+              "children": [],
+              "name": "w:footerReference"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "first",
+                "r:id": "rId13"
+              },
+              "children": [],
+              "name": "w:headerReference"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "first",
+                "r:id": "rId14"
+              },
+              "children": [],
+              "name": "w:footerReference"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:w": "11906",
+                "w:h": "16838",
+                "w:orient": "portrait",
+                "w:code": "9"
+              },
+              "children": [],
+              "name": "w:pgSz"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:top": "1701",
+                "w:right": "1418",
+                "w:bottom": "1701",
+                "w:left": "1701",
+                "w:header": "851",
+                "w:footer": "851",
+                "w:gutter": "0"
+              },
+              "children": [],
+              "name": "w:pgMar"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:start": "1"
+              },
+              "children": [],
+              "name": "w:pgNumType"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:space": "425"
+              },
+              "children": [],
+              "name": "w:cols"
+            },
+            {
+              "type": "element",
+              "value": "",
+              "attributes": {
+                "w:type": "linesAndChars",
+                "w:linePitch": "363"
+              },
+              "children": [],
+              "name": "w:docGrid"
+            }
+          ],
+          "name": "w:sectPr"
+        }
+      ],
+      "name": "w:body"
+    }
+  ],
+  "name": "w:document"
+}

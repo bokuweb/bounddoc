@@ -1,0 +1,798 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" 
+    xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:mv="urn:schemas-microsoft-com:mac:vml" 
+    xmlns:o="urn:schemas-microsoft-com:office:office" 
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" 
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" 
+    xmlns:v="urn:schemas-microsoft-com:vml" 
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" 
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" 
+    xmlns:w10="urn:schemas-microsoft-com:office:word" 
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" 
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" 
+    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" 
+    xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" 
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" 
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 wp14">
+    <w:body>
+        <w:p w:rsidR="00A82EC9" w:rsidP="01B47A91" w:rsidRDefault="00A82EC9" w14:noSpellErr="1" w14:paraId="22D1EA90" w14:textId="75B9F3B4">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:jc w:val="right" />
+            </w:pPr>
+            <w:r w:rsidR="01B47A91">
+                <w:rPr />
+                <w:t xml:space="preserve">テスト  </w:t>
+            </w:r>
+            <w:r w:rsidR="01B47A91">
+                <w:rPr />
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="01B47A91">
+                <w:rPr />
+                <w:t>asdad</w:t>
+            </w:r>
+            <w:r w:rsidR="01B47A91">
+                <w:rPr />
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:bookmarkStart w:name="_GoBack" w:id="0" />
+            <w:bookmarkEnd w:id="0" />
+        </w:p>
+        <w:p w:rsidR="00A82EC9" w:rsidP="00A82EC9" w:rsidRDefault="00A82EC9" w14:paraId="16527420" w14:textId="1A0EE3B6">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:jc w:val="center" />
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A82EC9" w:rsidP="00A82EC9" w:rsidRDefault="00A82EC9" w14:paraId="226E00AC" w14:textId="3EC87C58">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="01B47A91">
+                <w:rPr />
+                <w:t>契約書</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="01B47A91" w:rsidP="01B47A91" w:rsidRDefault="01B47A91" w14:paraId="53D2EA7D" w14:textId="6343368F">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:jc w:val="center" />
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="01B47A91" w:rsidP="01B47A91" w:rsidRDefault="01B47A91" w14:paraId="7186A39E" w14:textId="34D811D3">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:jc w:val="center" />
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="711C97EE" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+                <w:t>（定義）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="70FD704E" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="9" />
+                </w:numPr>
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+                <w:t>本契約書において、次に掲げる用語は次の定義によるものとする。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidP="50DF4DC3" w:rsidRDefault="00A4499B" w14:paraId="00846796" w14:noSpellErr="1" w14:textId="1CAB8D6A">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:ind w:left="420" w:leftChars="100" w:hanging="210" w:hangingChars="100" />
+                <w:rPr>
+                    <w:rFonts w:ascii="ＭＳ 明朝" w:hAnsi="ＭＳ 明朝" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>一　</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>Test</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="72868E1A" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+                <w:spacing w:line="240" w:lineRule="auto" />
+                <w:ind w:left="237" w:hanging="237" w:hangingChars="113" />
+                <w:rPr>
+                    <w:rFonts w:hAnsi="ＭＳ 明朝" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="2F066685" w14:noSpellErr="1" w14:textId="046E29FC">
+            <w:pPr>
+                <w:pStyle w:val="2" />
+                <w:ind w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>（共同）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="2397D110" w14:noSpellErr="1" w14:textId="39597600">
+            <w:pPr>
+                <w:pStyle w:val="a5" />
+                <w:ind w:left="0" w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>第２条　甲、乙及び丙は、次の</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>を設置し、</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>を実施するものとする。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidP="1CF09CE9" w:rsidRDefault="00A4499B" w14:paraId="123C1700" w14:noSpellErr="1" w14:textId="3BC13342">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="1" />
+                    <w:numId w:val="37" />
+                </w:numPr>
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind />
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>(１)　</w:t>
+            </w:r>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>の名称：</w:t>
+            </w:r>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="2505C349" w14:textId="3756B234">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="1" />
+                    <w:numId w:val="37" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>Aaaaaaaa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="4A7FD7D6" w14:textId="6DF2DABD">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="2" />
+                    <w:numId w:val="37" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>Aaa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="71AFAA52" w14:textId="6278CABD">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="2" />
+                    <w:numId w:val="37" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>Aaa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="68876F2F" w14:textId="434DAAEB">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="3" />
+                    <w:numId w:val="37" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>Aaaaa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="3034E137" w14:textId="29B6EF61">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="4" />
+                    <w:numId w:val="37" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>Aaaaa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="5EBFCF52" w14:textId="7D4FA1CD">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="2" />
+                    <w:numId w:val="38" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>aaaa</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidP="1CF09CE9" w:rsidRDefault="00A4499B" w14:paraId="264B19B8" w14:textId="0E2A5832" w14:noSpellErr="1">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:hangingChars="100" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>(２)　</w:t>
+            </w:r>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>の目的及び課題</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="2A265C98" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:leftChars="100" w:firstLine="210" w:firstLineChars="100" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+                <w:t>【目的】</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="004F02D2" w:rsidRDefault="004F02D2" w14:paraId="1CBB0844" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:leftChars="100" w:firstLine="210" w:firstLineChars="100" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="4E38D266" w14:noSpellErr="1" w14:textId="3D255195">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:leftChars="100" w:firstLine="210" w:firstLineChars="100" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>【</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>内容】</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="004F02D2" w:rsidRDefault="004F02D2" w14:paraId="74EC67A5" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="2C5127EB" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+                <w:t>(３)　役割分担（別表第１のとおり）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="40752954" w14:textId="370EF529">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>(４)　</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>AA</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="69BF55E0" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:pBdr>
+                    <w:top w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:left w:val="dashed" w:color="auto" w:sz="4" w:space="4" />
+                    <w:bottom w:val="dashed" w:color="auto" w:sz="4" w:space="1" />
+                    <w:right w:val="dashed" w:color="auto" w:sz="4" w:space="0" />
+                </w:pBdr>
+                <w:ind w:left="210" w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>(５)　設置場所：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="5419BF43" w14:textId="1ED324DB">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="32" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>Ddd</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="5DBA1166" w14:textId="1795BAC5">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="32" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="5EAA8944" w14:textId="6B52F257">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:ind w:left="0" />
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="6332B912" w14:textId="25DE776D">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="33" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="51CE8E5D" w14:textId="2AA59359">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:ind w:left="0" w:hanging="0" />
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>1.1</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="4E196314" w14:textId="46282C47">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:ind w:left="0" w:hanging="0" />
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t xml:space="preserve">1.2 </w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="6BA3F3E1" w14:textId="48A425D7">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="35" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:noSpellErr="1" w14:paraId="22E43633" w14:textId="675528D0">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="35" />
+                </w:numPr>
+                <w:rPr>
+                    <w:sz w:val="21" />
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="1CF09CE9">
+                <w:rPr />
+                <w:t>1.1.1</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="1CF09CE9" w:rsidP="1CF09CE9" w:rsidRDefault="1CF09CE9" w14:paraId="5A6A5F3E" w14:textId="2711DB67">
+            <w:pPr>
+                <w:pStyle w:val="20" />
+                <w:ind w:left="0" w:hanging="0" />
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidRPr="009C2A23" w:rsidR="009C2A23" w:rsidP="007A38C7" w:rsidRDefault="009C2A23" w14:paraId="6C4E74D3" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="10" />
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="18E4A58F" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="a5" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" />
+                </w:rPr>
+                <w:t>（設置期間）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="16B02FCD" w14:noSpellErr="1" w14:textId="27A8C393">
+            <w:pPr>
+                <w:pStyle w:val="a5" />
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>第３条　</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>の設置期間は、平成</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>x</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>年</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>x</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>月</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>x</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>日から平成</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>x</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>年</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>x</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>月</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>x</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>日までとする。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="00267E94" w14:textId="77777777">
+            <w:pPr>
+                <w:pStyle w:val="2" />
+                <w:ind w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="5FD2A298" w14:noSpellErr="1" w14:textId="1B875F90">
+            <w:pPr>
+                <w:pStyle w:val="2" />
+                <w:ind w:firstLine="0" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>（</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>における</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>に従事する者）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="2EB48F37" w14:noSpellErr="1" w14:textId="517BF948">
+            <w:pPr>
+                <w:pStyle w:val="a5" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>第４条　甲</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>、</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>乙及び丙は、それぞれ別表第１に掲げる</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>A</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>に参加させる。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="5FE70BB8" w14:noSpellErr="1" w14:textId="216AF9D1">
+            <w:pPr>
+                <w:pStyle w:val="a6" />
+                <w:ind w:hangingChars="100" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>２　甲</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>、</w:t>
+            </w:r>
+            <w:r w:rsidR="50DF4DC3">
+                <w:rPr />
+                <w:t>乙及び丙は、あらかじめ相手方に書面により通知し同意を得なければならない。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A4499B" w:rsidRDefault="00A4499B" w14:paraId="20CE4423" w14:noSpellErr="1" w14:textId="726C0081">
+            <w:pPr>
+                <w:pStyle w:val="a6" />
+                <w:rPr>
+                    <w:szCs w:val="21" />
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:sectPr w:rsidR="00A4499B">
+            <w:headerReference w:type="even" r:id="rId9" />
+            <w:headerReference w:type="default" r:id="rId10" />
+            <w:footerReference w:type="even" r:id="rId11" />
+            <w:footerReference w:type="default" r:id="rId12" />
+            <w:headerReference w:type="first" r:id="rId13" />
+            <w:footerReference w:type="first" r:id="rId14" />
+            <w:pgSz w:w="11906" w:h="16838" w:orient="portrait" w:code="9" />
+            <w:pgMar w:top="1701" w:right="1418" w:bottom="1701" w:left="1701" w:header="851" w:footer="851" w:gutter="0" />
+            <w:pgNumType w:start="1" />
+            <w:cols w:space="425" />
+            <w:docGrid w:type="linesAndChars" w:linePitch="363" />
+        </w:sectPr>
+    </w:body>
+</w:document>
