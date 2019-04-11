@@ -4,6 +4,7 @@ import { OOElement } from './xml/nodes';
 
 export async function readStyles(file: zip.Zip, path: string) {
   const element = await xmlFileReader(file, path);
+  if (!element) return null;
   return readStylesXml(element);
 }
 

@@ -30,17 +30,19 @@ function findPart(name: string, file: zip.Zip, rels: RelationShip[], mainDocumen
 export async function readPartRelationships(file: zip.Zip, mainDocumentPath: string) {
   const path = getPartRelationshipsFilename(mainDocumentPath);
   const element = await xmlFileReader(file, path);
-  const rels = element.children
-    .map(child => {
-      if (child.name === '{http://schemas.openxmlformats.org/package/2006/relationships}Relationship') {
-        return {
-          relationshipId: child.attributes.Id,
-          target: child.attributes.Target,
-          type: child.attributes.Type,
-        };
-      }
-    })
-    .filter(e => !!e) as RelationShip[];
+  const rels = !element
+    ? []
+    : (element.children
+        .map(child => {
+          if (child.name === '{http://schemas.openxmlformats.org/package/2006/relationships}Relationship') {
+            return {
+              relationshipId: child.attributes.Id,
+              target: child.attributes.Target,
+              type: child.attributes.Type,
+            };
+          }
+        })
+        .filter(e => !!e) as RelationShip[]);
   return {
     // TODO: Implement later
     // comments: findPart('comments'),

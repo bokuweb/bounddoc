@@ -13,6 +13,7 @@ const fallbackContentTypes = {
 
 export async function readContentTypes(file: zip.Zip) {
   const elements = await xmlFileReader(file, '[Content_Types].xml');
+  if (!elements) return null;
   const extensionDefaults: { [key: string]: string } = {};
   const overrides: { [key: string]: string } = {};
   elements.children.forEach(child => {

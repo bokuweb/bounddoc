@@ -66,12 +66,12 @@ export type Unknown = {
   type: 'Unknown';
 };
 
-export function readElement(el: OOElement, numbering: Numberings, styles: Styles) {
+export function readElement(el: OOElement, numbering: Numberings | null, styles: Styles | null) {
   if (el.type !== 'element') return null;
   return handleElement(el, numbering, styles);
 }
 
-function handleElement(el: OOElement, numbering: Numberings, styles: Styles) {
+function handleElement(el: OOElement, numbering: Numberings | null, styles: Styles | null) {
   switch (el.name) {
     case 'w:p':
       return readParagraph(el, numbering, styles);
@@ -96,7 +96,7 @@ function handleElement(el: OOElement, numbering: Numberings, styles: Styles) {
 // - Annotations (bookmarks, comments, revisions)
 // - Custom markup
 // - Run level content (fields, hyperlinks, runs)
-function readParagraph(el: OOElement, numbering: Numberings, styles: Styles): Paragraph {
+function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styles | null): Paragraph {
   const children = el.children.map(child => readElement(child, numbering, styles));
   const index = children.findIndex(c => (c && c.type) === 'ParagraphProperty');
   const property = children[index] as ParagraphProperty;
@@ -111,7 +111,7 @@ function readParagraph(el: OOElement, numbering: Numberings, styles: Styles): Pa
 // - Annotations (bookmarks, comments, revisions)
 // - Custom markup
 // - Run level content (fields, hyperlinks, runs)
-function readParagraphProperty(el: OOElement, numbering: Numberings, styles: Styles): ParagraphProperty {
+function readParagraphProperty(el: OOElement, numbering: Numberings | null, styles: Styles | null): ParagraphProperty {
   const style = readStyle(el, 'w:pStyle', styles);
   const numberProperty = el.first('w:numPr');
   const styleId = (style && style.styleId) || null;
@@ -121,7 +121,7 @@ function readParagraphProperty(el: OOElement, numbering: Numberings, styles: Sty
     styleId,
     styleName,
     alignment: el.findValueOf('w:jc') || null,
-    numbering: (numberProperty && readNumberingProperty(numberProperty, numbering, styles)) || null,
+    numbering: (numbering && (numberProperty && readNumberingProperty(numberProperty, numbering, styles))) || null,
     indent: readParagraphIndent(el),
   };
 }
@@ -129,7 +129,7 @@ function readParagraphProperty(el: OOElement, numbering: Numberings, styles: Sty
 // numPr (Numbering Definition Instance Reference)
 // This element specifies that the current paragraph uses numbering information
 // that is defined by a particular numbering definition instance.
-function readNumberingProperty(el: OOElement, numbering: Numberings, styles: Styles) {
+function readNumberingProperty(el: OOElement, numbering: Numberings, styles: Styles | null) {
   const level = el.findValueOf('w:ilvl');
   const numId = el.findValueOf('w:numId');
   if (level === null || numId === null) return null;
@@ -141,7 +141,7 @@ function readNumberingProperty(el: OOElement, numbering: Numberings, styles: Sty
 // the physical location of the paragraph mark for this paragraph. This paragraph mark
 // being a physical character in the document, can be formatted
 // and therefore shall be capable of representing this formatting like any other character in the document
-function readTextRunProperty(el: OOElement, styles: Styles) {
+function readTextRunProperty(el: OOElement, styles: Styles | null) {
   const style = readStyle(el, 'w:rStyle', styles);
   return {
     type: 'RunProperty',
@@ -182,7 +182,7 @@ function readText(el: OOElement): Text {
 // r (Text Run)
 // This element specifies a run of content in the parent field, hyperlink,
 // custom XML element, structured document tag, smart tag, or paragraph.
-function readTextRun(el: OOElement, numbering: Numberings, styles: Styles): Run {
+function readTextRun(el: OOElement, numbering: Numberings | null, styles: Styles | null): Run {
   const children = el.children.map(child => readElement(child, numbering, styles));
   const index = children.findIndex(c => (c && c.type) === 'RunProperty');
   const property = children[index] as RunProperty;
@@ -190,12 +190,12 @@ function readTextRun(el: OOElement, numbering: Numberings, styles: Styles): Run 
   return { ...property, type: 'Run', children };
 }
 
-function readStyle(el: OOElement, styleName: string, styles: Styles): Style | null {
+function readStyle(el: OOElement, styleName: string, styles: Styles | null): Style | null {
   const styleEl = el.first(styleName);
   if (!styleEl) return null;
   const styleId = styleEl.attributes['w:val'];
   if (!styleId) return null;
-  const style = styles[styleId];
+  const style = styles && styles[styleId];
   if (!style) return null;
   return style;
 }

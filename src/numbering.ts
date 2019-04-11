@@ -3,8 +3,9 @@ import { xmlFileReader } from './xml-reader';
 import { OOElement } from './xml/nodes';
 import { Styles } from './style';
 
-export async function readNumberings(file: zip.Zip, path: string) {
+export async function readNumberings(file: zip.Zip, path: string): Promise<Numberings | null> {
   const element = await xmlFileReader(file, path);
+  if (!element) return null;
   return readNumberingsXML(element);
 }
 
@@ -85,7 +86,7 @@ function readAbstractNum(el: OOElement) {
   return { levels, numStyleLink };
 }
 
-export function findLevel(numId: string, level: string, numbering: Numberings, styles: Styles) {
+export function findLevel(numId: string, level: string, numbering: Numberings, styles: Styles | null) {
   const num = numbering.nums[numId];
   if (!num) return null;
   const abstractNum = numbering.abstractNums[num.abstractNumId];

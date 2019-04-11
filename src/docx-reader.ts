@@ -27,5 +27,6 @@ export async function read(file: zip.Zip /*, input = {}*/) {
   const styles = await readStyles(file, partRelPaths.styles);
   const numberings = await readNumberings(file, partRelPaths.numbering);
   const main = await readMain(file, mainDocumentPath);
+  if (!main) throw new Error('Failed to open docx file, this is because can not find document file');
   resolve(main, numberings, styles);
 }

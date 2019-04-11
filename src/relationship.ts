@@ -33,6 +33,7 @@ export function findPartPath(file: zip.Zip, options: FindPathOptions) {
 
 export async function readRelationships(file: zip.Zip) {
   const element = await xmlFileReader(file, '_rels/.rels');
+  if (!element) return [];
   return element.children
     .map(child => {
       if (child.name === '{http://schemas.openxmlformats.org/package/2006/relationships}Relationship') {

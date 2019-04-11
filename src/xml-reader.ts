@@ -16,15 +16,16 @@ const xmlNamespaceMap = {
   'urn:schemas-microsoft-com:office:word': 'office-word',
 };
 
-export async function xmlFileReader(file: zip.Zip, filename: string): Promise<OOElement> {
+export async function xmlFileReader(file: zip.Zip, filename: string): Promise<OOElement | null> {
   const xml = await parseXML(file, filename);
-  if (!xml) throw new Error('Failed to parse XML file');
   return xml;
 }
 
 async function parse(xmlString: string) {
-  const doc = xml.parseXML(xmlString, xmlNamespaceMap);
-  return collapseAlternateContent(doc)[0];
+  const doc = await xml.parseXML(xmlString, xmlNamespaceMap);
+  const collapsed = collapseAlternateContent(doc);
+  // console.log(collapsed[0], 'asdasd');
+  return collapsed[0];
 }
 
 export async function parseXML(file: zip.Zip, path: string) {
@@ -38,15 +39,19 @@ function stripUTF8BOM(txt: string) {
 }
 
 function collapseAlternateContent(el: OOElement) {
+  // console.log('collapseAlternateContent')
   if (el.type === 'element') {
     if (el.name === 'mc:AlternateContent') {
+      // console.log(collapseAlternateContent);
       const n = el.first('mc:Fallback');
       if (!n) return [el];
-      return n && n.children;
+      return n.children;
     } else {
+      // console.log('else');
       el.children = flatten(el.children.map(c => collapseAlternateContent(c), true));
       return [el];
     }
   }
+  // console.log('sdasds');
   return [el];
 }
