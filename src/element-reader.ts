@@ -8,18 +8,7 @@ type $TODO = any;
 
 export type NodeType = 'Paragraph' | 'Run' | 'Text';
 
-export type Paragraph = {
-  type: 'Paragraph';
-  children: $TODO[];
-  styleId: string | null;
-  styleName: string | null;
-  alignment: string | null;
-  numbering: Level | null;
-  indent: ReturnType<typeof readParagraphIndent>;
-};
-
-export type ParagraphProperty = {
-  type: 'ParagraphProperty';
+export type ParagraphAttributes = {
   styleId: string | null;
   styleName: string | null;
   alignment: string | null;
@@ -28,9 +17,18 @@ export type ParagraphProperty = {
   spacing: ReturnType<typeof readSpacingProperty> | null;
 };
 
+export type Paragraph = ParagraphAttributes & {
+  type: 'Paragraph';
+  children: Run[];
+};
+
+export type ParagraphProperty = ParagraphAttributes & {
+  type: 'ParagraphProperty';
+};
+
 export type Run = {
   type: 'Run';
-  children: $TODO[];
+  children: Array<Text | Break>;
   styleId: string | null;
   styleName: string | null;
   verticalAlignment: string | null;
@@ -63,15 +61,19 @@ export type Text = {
   value: string;
 };
 
+export type Break = {
+  type: 'Break';
+  breakType: 'Page' | 'Column' | 'Line';
+};
+
 export type Unknown = {
   type: 'Unknown';
 };
 
-export type Result = Paragraph | Run | Text | Unknown;
+export type Result = Paragraph | Run | Text | Break | Unknown;
 
 export function readElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): Result {
   if (el.type !== 'element') return { type: 'Unknown' };
-  // console.log(el)
   return handleElement(el, numbering, styles);
 }
 
@@ -81,6 +83,8 @@ function handleElement(el: OOElement, numbering: Numberings | null, styles: Styl
       return readParagraph(el, numbering, styles);
     case 'w:t':
       return readText(el);
+    case 'w:br':
+      return readBreak(el);
     case 'w:r':
       return readTextRun(el, numbering, styles);
     default:
@@ -112,7 +116,7 @@ function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styl
   const index = children.findIndex(c => (c && c.type) === 'ParagraphProperty');
   const property = children[index] as ParagraphProperty;
   children.splice(index, 1);
-  return { ...property, type: 'Paragraph', children };
+  return { ...property, type: 'Paragraph', children: children as Run[] };
 }
 
 // pPr (Paragraph Properties)
@@ -209,6 +213,21 @@ function readText(el: OOElement): Text {
   return { type: 'Text', value: el.text() };
 }
 
+// br (Break)
+// This element specifies that a break shall be placed at the current location in the run content.
+// A break is a special character which is used to override the normal line breaking that would be performed
+// based on the normal layout of the document’s contents.
+function readBreak(el: OOElement): Break {
+  const breakType = el.attributes['w:type'];
+  if (breakType === 'page') {
+    return { type: 'Break', breakType: 'Page' };
+  } else if (breakType === 'column') {
+    return { type: 'Break', breakType: 'Column' };
+  } else {
+    return { type: 'Break', breakType: 'Line' };
+  }
+}
+
 // r (Text Run)
 // This element specifies a run of content in the parent field, hyperlink,
 // custom XML element, structured document tag, smart tag, or paragraph.
@@ -217,7 +236,7 @@ function readTextRun(el: OOElement, numbering: Numberings | null, styles: Styles
   const index = children.findIndex(c => (c && c.type) === 'RunProperty');
   const property = children[index] as RunProperty;
   children.splice(index, 1);
-  return { ...property, type: 'Run', children };
+  return { ...property, type: 'Run', children: children as Array<Break | Text> };
 }
 
 function readStyle(el: OOElement, styleName: string, styles: Styles | null): Style | null {
