@@ -10,7 +10,6 @@ import { readNumberings } from './numbering';
 import { readMain } from './main-document';
 
 import { resolve } from './resolver';
-// import { writeFileSync } from 'fs';
 
 export async function read(file: zip.Zip /*, input = {}*/) {
   // First, the content type for relationship parts and the Main Document part
@@ -29,7 +28,6 @@ export async function read(file: zip.Zip /*, input = {}*/) {
   const numberings = await readNumberings(file, partRelPaths.numbering);
   const main = await readMain(file, mainDocumentPath);
   if (!main) throw new Error('Failed to open docx file, this is because can not find document file');
-
-  // writeFileSync('main_.json', JSON.stringify(main, null, 2));
+  // require('fs').writeFileSync('main3_.json', JSON.stringify(main, null, 2));
   return resolve(main, numberings, styles);
 }

@@ -2,17 +2,17 @@ import _ from 'lodash';
 import { OOElement } from './xml/nodes';
 
 import { Styles, Style } from './style';
-import { Numberings, findLevel, Level } from './numbering';
-
-type $TODO = any;
+import { Numberings, findLevel, NumberingLevel } from './numbering';
 
 export type NodeType = 'Paragraph' | 'Run' | 'Text';
+
+export type NumberingProperty = { numId: string } & NumberingLevel;
 
 export type ParagraphAttributes = {
   styleId: string | null;
   styleName: string | null;
   alignment: string | null;
-  numbering: Level | null;
+  numbering: NumberingProperty | null;
   indent: ReturnType<typeof readParagraphIndent> | null;
   spacing: ReturnType<typeof readSpacingProperty> | null;
 };
@@ -39,11 +39,11 @@ export type Run = {
   isItalic: boolean;
   isStrikethrough: boolean;
   isSmallCaps: boolean;
+  hasPict: boolean;
 };
 
 export type RunProperty = {
   type: 'RunProperty';
-  children: $TODO[];
   styleId: string | null;
   styleName: string | null;
   verticalAlignment: string | null;
@@ -61,16 +61,25 @@ export type Text = {
   value: string;
 };
 
+export type Tab = {
+  type: 'Tab';
+};
+
 export type Break = {
   type: 'Break';
   breakType: 'Page' | 'Column' | 'Line';
+};
+
+export type Table = {
+  type: 'Table';
+  children: any[];
 };
 
 export type Unknown = {
   type: 'Unknown';
 };
 
-export type Result = Paragraph | Run | Text | Break | Unknown;
+export type Result = Paragraph | Run | Text | Tab | Break | Table | Unknown;
 
 export function readElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): Result {
   if (el.type !== 'element') return { type: 'Unknown' };
@@ -83,10 +92,14 @@ function handleElement(el: OOElement, numbering: Numberings | null, styles: Styl
       return readParagraph(el, numbering, styles);
     case 'w:t':
       return readText(el);
+    case 'w:tab':
+      return readTab(el);
     case 'w:br':
       return readBreak(el);
     case 'w:r':
       return readTextRun(el, numbering, styles);
+    case 'w:tbl':
+      return { type: 'Table', children: [] };
     default:
       console.warn(`unhandled element name ${el.name} detected.`);
       return { type: 'Unknown' };
@@ -115,7 +128,9 @@ function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styl
   const children = el.children.map(child => handlePropertyElement(child, numbering, styles));
   const index = children.findIndex(c => (c && c.type) === 'ParagraphProperty');
   const property = children[index] as ParagraphProperty;
-  children.splice(index, 1);
+  if (index > 0) {
+    children.splice(index, 1);
+  }
   return { ...property, type: 'Paragraph', children: children as Run[] };
 }
 
@@ -151,7 +166,9 @@ function readNumberingProperty(el: OOElement, numbering: Numberings | null, styl
   const level = el.findValueOf('w:ilvl');
   const numId = el.findValueOf('w:numId');
   if (level === null || numId === null) return null;
-  return findLevel(numId, level, numbering, styles);
+  const found = findLevel(numId, level, numbering, styles);
+  if (!found) return null;
+  return { numId, ...found };
 }
 
 // spacing (Spacing Between Lines and Above/Below Paragraph)
@@ -209,8 +226,18 @@ function toBoolean(v: string | null) {
   return !!v && v !== 'false' && v !== '0';
 }
 
+// This element specifies that this run contains literal text which shall be displayed in the document. The t element shall be used for all text runs which are not:
+// Part of a region of text that is contained in a deleted region using the del element (§17.13.5.14)
+// Part of a region of text that is contained within a field code
 function readText(el: OOElement): Text {
   return { type: 'Text', value: el.text() };
+}
+
+//This element specifies a single custom tab stop defined within a set of paragraph properties in a document.
+// A tab stop location shall always be measured relative to the leading edge of the paragraph in which it is used
+// (that is, the left edge for a left-to-right paragraph, and the right edge for a right-to-left paragraph).
+function readTab(el: OOElement): Tab {
+  return { type: 'Tab' };
 }
 
 // br (Break)
@@ -235,8 +262,11 @@ function readTextRun(el: OOElement, numbering: Numberings | null, styles: Styles
   const children = el.children.map(child => handlePropertyElement(child, numbering, styles));
   const index = children.findIndex(c => (c && c.type) === 'RunProperty');
   const property = children[index] as RunProperty;
-  children.splice(index, 1);
-  return { ...property, type: 'Run', children: children as Array<Break | Text> };
+  const hasPict = !!el.attributes['w:pict'];
+  if (index > 0) {
+    children.splice(index, 1);
+  }
+  return { ...property, type: 'Run', children: children as Array<Break | Text>, hasPict };
 }
 
 function readStyle(el: OOElement, styleName: string, styles: Styles | null): Style | null {

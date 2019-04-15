@@ -38,7 +38,7 @@ function readNums(el: OOElement): NumIds {
   );
 }
 
-export type Level = {
+export type NumberingLevel = {
   numFmt: string;
   lvlText: string;
   lvlJc: string;
@@ -47,7 +47,7 @@ export type Level = {
 };
 
 export type Levels = {
-  [key: string]: Level;
+  [key: string]: NumberingLevel;
 };
 
 export type AbstractNums = {
