@@ -147,15 +147,33 @@ function readParagraphProperty(el: OOElement, numbering: Numberings | null, styl
   const spacingEl = el.first('w:spacing');
   const styleId = (style && style.styleId) || null;
   const styleName = (style && style.name) || null;
+  let num = numberPropertyEl ? readNumberingProperty(numberPropertyEl, numbering, styles) : null;
+  if (num === null && styleId && numbering) {
+    // Try to find numbering from styleId
+    // See, https://github.com/mwilliamson/mammoth.js/pull/184
+    num = findNumberingByStyleId(numbering, styleId);
+  }
   return {
     type: 'ParagraphProperty',
     styleId,
     styleName,
     alignment: el.findValueOf('w:jc') || null,
-    numbering: numberPropertyEl ? readNumberingProperty(numberPropertyEl, numbering, styles) : null,
+    numbering: num,
     indent: readParagraphIndent(el),
     spacing: spacingEl ? readSpacingProperty(spacingEl) : null,
   };
+}
+
+function findNumberingByStyleId(numbering: Numberings, styleId: string) {
+  for (const id of Object.keys(numbering.abstractNums)) {
+    for (const level of Object.keys(numbering.abstractNums[id].levels)) {
+      if (numbering.abstractNums[id].levels[level].pStyle === styleId) {
+        const num = numbering.abstractNums[id].levels[level];
+        return { numId: '', ...num };
+      }
+    }
+  }
+  return null;
 }
 
 // numPr (Numbering Definition Instance Reference)

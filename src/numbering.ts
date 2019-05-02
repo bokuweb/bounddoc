@@ -6,7 +6,8 @@ import { Styles } from './style';
 export async function readNumberings(file: zip.Zip, path: string): Promise<Numberings | null> {
   const element = await xmlFileReader(file, path);
   if (!element) return null;
-  return readNumberingsXML(element);
+  const n = readNumberingsXML(element);
+  return n;
 }
 
 export type Numberings = {
