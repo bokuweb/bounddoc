@@ -31,6 +31,9 @@ export type Style = {
   type: StyleType;
   styleId: string;
   name: string;
+  property: {
+    alignment: string | null;
+  };
 };
 
 export type Styles = {
@@ -52,7 +55,19 @@ function readStyleElement(styleElement: OOElement) {
   const type = (styleElement.attributes['w:type'] || 'none') as StyleType;
   const styleId = styleElement.attributes['w:styleId'];
   const name = styleName(styleElement);
-  return { type, styleId, name };
+  const pPr = styleElement.first('w:pPr');
+  let alignment: string | null = null;
+  if (pPr) {
+    alignment = pPr.findValueOf('w:jc') || null;
+  }
+  return {
+    type,
+    styleId,
+    name,
+    property: {
+      alignment,
+    },
+  };
 }
 
 function styleName(styleElement: OOElement) {

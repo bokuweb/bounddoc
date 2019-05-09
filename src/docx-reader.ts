@@ -28,6 +28,6 @@ export async function read(file: zip.Zip /*, input = {}*/) {
   const numberings = await readNumberings(file, partRelPaths.numbering);
   const main = await readMain(file, mainDocumentPath);
   if (!main) throw new Error('Failed to open docx file, this is because can not find document file');
-  // require('fs').writeFileSync('main3_.json', JSON.stringify(main, null, 2));
+  // require('fs').writeFileSync('nda2_.json', JSON.stringify(main, null, 2));
   return resolve(main, numberings, styles);
 }

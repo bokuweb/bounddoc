@@ -1,6 +1,6 @@
 {
   "name": "bounddoc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": "https://github.com/bokuweb/bounddoc.git",
   "author": "bokuweb <bokuweb12@gmail.com>",

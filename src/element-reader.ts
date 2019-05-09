@@ -79,14 +79,14 @@ export type Unknown = {
   type: 'Unknown';
 };
 
-export type Result = Paragraph | Run | Text | Tab | Break | Table | Unknown;
+export type OONode = Paragraph | Run | Text | Tab | Break | Table | Unknown;
 
-export function readElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): Result {
+export function readElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): OONode {
   if (el.type !== 'element') return { type: 'Unknown' };
   return handleElement(el, numbering, styles);
 }
 
-function handleElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): Result {
+function handleElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): OONode {
   switch (el.name) {
     case 'w:p':
       return readParagraph(el, numbering, styles);
@@ -153,11 +153,12 @@ function readParagraphProperty(el: OOElement, numbering: Numberings | null, styl
     // See, https://github.com/mwilliamson/mammoth.js/pull/184
     num = findNumberingByStyleId(numbering, styleId);
   }
+  const styleAlignment = (style && style.property && style.property.alignment) || null;
   return {
     type: 'ParagraphProperty',
     styleId,
     styleName,
-    alignment: el.findValueOf('w:jc') || null,
+    alignment: el.findValueOf('w:jc') || styleAlignment || null,
     numbering: num,
     indent: readParagraphIndent(el),
     spacing: spacingEl ? readSpacingProperty(spacingEl) : null,
