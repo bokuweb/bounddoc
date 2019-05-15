@@ -1,7 +1,7 @@
 import { open } from './unzip';
 import { read } from './docx-reader';
 
-export { OONode } from './element-reader';
+export { OONode, Run, NodeType, Spacing, Indent, NumberingProperty } from './element-reader';
 
 export async function convert(buf: ArrayBuffer /*, options */) {
   const file = await open(buf);

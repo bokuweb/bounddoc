@@ -8,13 +8,17 @@ export type NodeType = 'Paragraph' | 'Run' | 'Text';
 
 export type NumberingProperty = { numId: string } & NumberingLevel;
 
+export type Spacing = ReturnType<typeof readSpacingProperty> | null;
+
+export type Indent = ReturnType<typeof readParagraphIndent> | null;
+
 export type ParagraphAttributes = {
   styleId: string | null;
   styleName: string | null;
   alignment: string | null;
   numbering: NumberingProperty | null;
-  indent: ReturnType<typeof readParagraphIndent> | null;
-  spacing: ReturnType<typeof readSpacingProperty> | null;
+  indent: Indent;
+  spacing: Spacing;
 };
 
 export type Paragraph = ParagraphAttributes & {
