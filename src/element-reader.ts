@@ -79,11 +79,16 @@ export type Table = {
   children: any[];
 };
 
+export type Pict = {
+  type: 'Pict';
+  children: any[];
+};
+
 export type Unknown = {
   type: 'Unknown';
 };
 
-export type OONode = Paragraph | Run | Text | Tab | Break | Table | Unknown;
+export type OONode = Paragraph | Run | Text | Tab | Break | Table | Pict | Unknown;
 
 export function readElement(el: OOElement, numbering: Numberings | null, styles: Styles | null): OONode {
   if (el.type !== 'element') return { type: 'Unknown' };
@@ -104,8 +109,10 @@ function handleElement(el: OOElement, numbering: Numberings | null, styles: Styl
       return readTextRun(el, numbering, styles);
     case 'w:tbl':
       return { type: 'Table', children: [] };
+    case 'w:pict':
+      return { type: 'Pict', children: [] };
     default:
-      console.warn(`unhandled element name ${el.name} detected.`);
+      // console.warn(`unhandled element name ${el.name} detected.`);
       return { type: 'Unknown' };
   }
 }
@@ -286,7 +293,7 @@ function readTextRun(el: OOElement, numbering: Numberings | null, styles: Styles
   const index = children.findIndex(c => (c && c.type) === 'RunProperty');
   const property = children[index] as RunProperty;
   const hasPict = !!el.attributes['w:pict'];
-  if (index > 0) {
+  if (index > -1) {
     children.splice(index, 1);
   }
   return { ...property, type: 'Run', children: children as Array<Break | Text>, hasPict };
