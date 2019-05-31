@@ -109,8 +109,6 @@ function handleElement(el: OOElement, numbering: Numberings | null, styles: Styl
       return readTextRun(el, numbering, styles);
     case 'w:tbl':
       return { type: 'Table', children: [] };
-    case 'w:pict':
-      return { type: 'Pict', children: [] };
     default:
       // console.warn(`unhandled element name ${el.name} detected.`);
       return { type: 'Unknown' };
@@ -123,6 +121,8 @@ function handlePropertyElement(el: OOElement, numbering: Numberings | null, styl
       return readParagraphProperty(el, numbering, styles);
     case 'w:rPr':
       return readTextRunProperty(el, styles);
+    case 'w:pict':
+      return { type: 'Pict', children: [] };
     default:
       return handleElement(el, numbering, styles);
   }
@@ -292,7 +292,7 @@ function readTextRun(el: OOElement, numbering: Numberings | null, styles: Styles
   const children = el.children.map(child => handlePropertyElement(child, numbering, styles));
   const index = children.findIndex(c => (c && c.type) === 'RunProperty');
   const property = children[index] as RunProperty;
-  const hasPict = !!el.attributes['w:pict'];
+  const hasPict = !!el.attributes['w:pict'] || children.some(c => (c && c.type) === 'Pict');
   if (index > -1) {
     children.splice(index, 1);
   }
