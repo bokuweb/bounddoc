@@ -55,6 +55,7 @@ export type AbstractNums = {
   [key: string]: {
     levels: Levels;
     numStyleLink: string | null;
+    styleLink: string | null;
   };
 };
 
@@ -82,18 +83,41 @@ function readAbstractNum(el: OOElement) {
     },
     {} as Levels,
   );
-  const link = el.first('w:numStyleLink');
-  const numStyleLink = (link && link.attributes['w:val']) || '';
-  return { levels, numStyleLink };
+  // Please see 17.9.21 numStyleLink (Numbering Style Reference)
+  const numStyleLinkEl = el.first('w:numStyleLink');
+  const numStyleLink = (numStyleLinkEl && numStyleLinkEl.attributes['w:val']) || '';
+  // Please see. 17.9.27 styleLink (Numbering Style Definition)
+  const styleLinkEl = el.first('w:styleLink');
+  const styleLink = (styleLinkEl && styleLinkEl.attributes['w:val']) || '';
+  return { levels, numStyleLink, styleLink };
 }
 
-export function findLevel(numId: string, level: string, numbering: Numberings, styles: Styles | null) {
+export function findLevel(
+  numId: string,
+  level: string,
+  numbering: Numberings,
+  styles: Styles | null,
+): NumberingLevel | null {
   const num = numbering.nums[numId];
   if (!num) return null;
   const abstractNum = numbering.abstractNums[num.abstractNumId];
   if (!abstractNum) return null;
-  return abstractNum.levels[level];
-  // if (!abstractNum.numStyleLink) return this.abstractNums[num.abstractNumId].levels[level];
-  // const style = this.styles[abstractNum.numStyleLink];
-  // return this.findLevel(style.numId, level);
+  const foundLevel = abstractNum.levels[level];
+  if (foundLevel) return foundLevel;
+  if (!abstractNum.numStyleLink) return null;
+  // Search num style link
+  const linkedAbstractNumId = Object.keys(numbering.abstractNums).find(
+    n => numbering.abstractNums[n].styleLink === abstractNum.numStyleLink,
+  );
+  // Linked abstract num found.
+  if (typeof linkedAbstractNumId !== 'undefined') {
+    if (numbering.abstractNums[linkedAbstractNumId]) {
+      return numbering.abstractNums[linkedAbstractNumId].levels[level];
+    }
+  }
+  if (styles) {
+    const style = styles[abstractNum.numStyleLink];
+    return findLevel(style.numId, level, numbering, styles);
+  }
+  return null;
 }

@@ -30,6 +30,7 @@ export type StyleType = 'character' | 'paragraph' | 'table' | 'numbering' | 'lin
 export type Style = {
   type: StyleType;
   styleId: string;
+  numId: string;
   name: string;
   property: {
     alignment: string | null;
@@ -57,12 +58,18 @@ function readStyleElement(styleElement: OOElement) {
   const name = styleName(styleElement);
   const pPr = styleElement.first('w:pPr');
   let alignment: string | null = null;
+  let numId: string = '';
   if (pPr) {
     alignment = pPr.findValueOf('w:jc') || null;
+    const numPr = pPr.first('w:numPr');
+    if (numPr) {
+      numId = numPr.findValueOf('w:numId') || '';
+    }
   }
   return {
     type,
     styleId,
+    numId,
     name,
     property: {
       alignment,
