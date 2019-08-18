@@ -1,6 +1,7 @@
 import * as zip from './zip';
 import { xmlFileReader } from './xml-reader';
 import { OOElement } from './xml/nodes';
+import { createParagraphIndent, Indent } from './models/indent';
 import { Styles } from './style';
 
 export async function readNumberings(file: zip.Zip, path: string): Promise<Numberings | null> {
@@ -45,6 +46,7 @@ export type NumberingLevel = {
   lvlJc: string;
   pStyle: string;
   level: string;
+  indent: Indent | null;
 };
 
 export type Levels = {
@@ -78,7 +80,9 @@ function readAbstractNum(el: OOElement) {
       const lvlJc = el.findValueOf('w:lvlJc') || '';
       const pStyle = el.findValueOf('w:pStyle') || '';
       const level = el.attributes['w:ilvl'];
-      acc[level] = { numFmt, lvlText, pStyle, level, lvlJc };
+      const pPr = el.first('w:pPr');
+      const indent = pPr ? createParagraphIndent(pPr) : null;
+      acc[level] = { numFmt, lvlText, pStyle, level, lvlJc, indent };
       return acc;
     },
     {} as Levels,
