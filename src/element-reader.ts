@@ -1,6 +1,8 @@
 import _ from 'lodash';
 import { OOElement } from './xml/nodes';
 
+import { createParagraphIndent } from './models/indent';
+
 import { Styles, Style } from './style';
 import { Numberings, findLevel, NumberingLevel } from './numbering';
 
@@ -242,14 +244,7 @@ function readTextRunProperty(el: OOElement, styles: Styles | null) {
 // ind (Paragraph Indentation)
 // This element specifies the set of indentation properties applied to the current paragraph.
 function readParagraphIndent(el: OOElement) {
-  const indent = el.first('w:ind');
-  if (!indent) return null;
-  return {
-    start: indent.attributes['w:start'] || indent.attributes['w:left'],
-    end: indent.attributes['w:end'] || indent.attributes['w:right'],
-    firstLine: indent.attributes['w:firstLine'],
-    hanging: indent.attributes['w:hanging'],
-  };
+  return createParagraphIndent(el);
 }
 
 function toBoolean(v: string | null) {
