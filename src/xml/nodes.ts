@@ -30,7 +30,13 @@ export class OOElement {
     return v.attributes[valueName] || null;
   }
 
-  getElementsByTagName(name: string) {
+  getElementByTagName(name: string): OOElement | undefined {
+    return this.children.find(child => {
+      return child.name === name;
+    });
+  }
+
+  getElementsByTagName(name: string): OOElement[] {
     const elements = this.children.filter(child => {
       return child.name === name;
     });
