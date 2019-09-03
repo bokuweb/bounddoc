@@ -76,9 +76,34 @@ export type Break = {
   breakType: 'Page' | 'Column' | 'Line';
 };
 
+export type TableCellProperty = {
+  gridSpan: number;
+  verticalMerge: 'restart' | 'continue' | null;
+};
+
+export type TableCell = {
+  type: 'TableCell';
+  property: TableCellProperty;
+  children: Paragraph[];
+};
+
+export type TableRow = {
+  type: 'TableRow';
+  cells: TableCell[];
+};
+
+export type TableProperty = {
+  width: {
+    type: string;
+    value: string;
+  } | null;
+  columnWidths: number[];
+};
+
 export type Table = {
   type: 'Table';
-  children: any[];
+  property: TableProperty;
+  rows: TableRow[];
 };
 
 export type Pict = {
@@ -110,7 +135,7 @@ function handleElement(el: OOElement, numbering: Numberings | null, styles: Styl
     case 'w:r':
       return readTextRun(el, numbering, styles);
     case 'w:tbl':
-      return { type: 'Table', children: [] };
+      return readTable(el, numbering, styles);
     default:
       // console.warn(`unhandled element name ${el.name} detected.`);
       return { type: 'Unknown' };
@@ -127,6 +152,17 @@ function handlePropertyElement(el: OOElement, numbering: Numberings | null, styl
       return { type: 'Pict', children: [] };
     default:
       return handleElement(el, numbering, styles);
+  }
+}
+
+function handleTablePropertyElement(el: OOElement) {
+  switch (el.name) {
+    case 'w:tblCellMar':
+      return console.log('unimplemented');
+    case 'w:tblBorders':
+      return console.log('unimplemented');
+    case 'w:tblW':
+      return console.log('unimplemented');
   }
 }
 
@@ -292,6 +328,47 @@ function readTextRun(el: OOElement, numbering: Numberings | null, styles: Styles
     children.splice(index, 1);
   }
   return { ...property, type: 'Run', children: children as Array<Break | Text>, hasPict };
+}
+
+function readTable(el: OOElement, numbering: Numberings | null, styles: Styles | null): Table {
+  const property: TableProperty = {
+    width: null,
+    columnWidths: [],
+  };
+  const tblPr = el.getElementByTagName('w:tblPr');
+  if (tblPr) {
+    const tblW = tblPr.getElementByTagName('w:tblW');
+    if (tblW) {
+      property.width = {
+        type: tblW.attributes['w:type'] || '',
+        value: tblW.attributes['w:w'] || '',
+      };
+    }
+  }
+
+  const tblGrid = el.getElementByTagName('w:tblGrid');
+  if (tblGrid) {
+    property.columnWidths = tblGrid.children.map(g => Number(g.attributes['w:w'] || 0));
+  }
+
+  const rows = el.getElementsByTagName('w:tr').map(row => {
+    return {
+      type: 'TableRow',
+      cells: row.children.map(cell => {
+        const tcPr = cell.getElementByTagName('w:tcPr');
+        const gridSpan = (tcPr && tcPr.findValueOf('w:gridSpan')) || 1;
+        const verticalMerge = (tcPr && tcPr.findValueOf('w:vMerge')) || null;
+        return {
+          type: 'TableCell',
+          property: { gridSpan, verticalMerge },
+          children: cell.children.map(c => {
+            return handleElement(c, numbering, styles);
+          }),
+        } as TableCell;
+      }),
+    } as TableRow;
+  });
+  return { type: 'Table', property, rows };
 }
 
 function readStyle(el: OOElement, styleName: string, styles: Styles | null): Style | null {
