@@ -354,18 +354,23 @@ function readTable(el: OOElement, numbering: Numberings | null, styles: Styles |
   const rows = el.getElementsByTagName('w:tr').map(row => {
     return {
       type: 'TableRow',
-      cells: row.children.map(cell => {
-        const tcPr = cell.getElementByTagName('w:tcPr');
-        const gridSpan = (tcPr && tcPr.findValueOf('w:gridSpan')) || 1;
-        const verticalMerge = (tcPr && tcPr.findValueOf('w:vMerge')) || null;
-        return {
-          type: 'TableCell',
-          property: { gridSpan, verticalMerge },
-          children: cell.children.map(c => {
-            return handleElement(c, numbering, styles);
-          }),
-        } as TableCell;
-      }),
+      cells: row.children
+        .filter(cell => cell.name === 'w:tc')
+        .map(cell => {
+          const tcPr = cell.getElementByTagName('w:tcPr');
+          const gridSpan = (tcPr && tcPr.findValueOf('w:gridSpan')) || 1;
+          const verticalMerge = (tcPr && tcPr.findValueOf('w:vMerge')) || null;
+
+          return {
+            type: 'TableCell',
+            property: { gridSpan, verticalMerge },
+            children: cell.children
+              .filter(c => c.name !== 'w:tcPr')
+              .map(c => {
+                return handleElement(c, numbering, styles);
+              }),
+          } as TableCell;
+        }),
     } as TableRow;
   });
   return { type: 'Table', property, rows };
