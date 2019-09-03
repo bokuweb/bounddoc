@@ -34,7 +34,7 @@ export type ParagraphProperty = ParagraphAttributes & {
 
 export type Run = {
   type: 'Run';
-  children: Array<Text | Break | Tab>;
+  children: Array<Text | Break | Tab | Unknown>;
   styleId: string | null;
   styleName: string | null;
   verticalAlignment: string | null;
