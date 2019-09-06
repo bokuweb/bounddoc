@@ -358,9 +358,9 @@ function readTable(el: OOElement, numbering: Numberings | null, styles: Styles |
         .filter(cell => cell.name === 'w:tc')
         .map(cell => {
           const tcPr = cell.getElementByTagName('w:tcPr');
-          const gridSpan = (tcPr && tcPr.findValueOf('w:gridSpan')) || 1;
-          const verticalMerge = (tcPr && tcPr.findValueOf('w:vMerge')) || null;
-
+          const gridSpan = Number((tcPr && tcPr.findValueOf('w:gridSpan')) || 1);
+          const vMerge = tcPr && tcPr.getElementByTagName('w:vMerge');
+          const verticalMerge = !vMerge ? null : vMerge.attributes['w:val'] || 'continue';
           return {
             type: 'TableCell',
             property: { gridSpan, verticalMerge },
