@@ -180,6 +180,7 @@ function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styl
       .map((child: any) => {
         if (child.name === 'w:ins') {
           return child.children.map((child: any) => handlePropertyElement(child, numbering, styles));
+
         } else if (child.name === 'w:del') {
           // Ignore for now
           return null;
