@@ -174,7 +174,21 @@ function handleTablePropertyElement(el: OOElement) {
 // - Custom markup
 // - Run level content (fields, hyperlinks, runs)
 function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styles | null): Paragraph {
-  const children = el.children.map(child => handlePropertyElement(child, numbering, styles));
+  const children = _.flatten(
+    // FIXME: refactor later
+    el.children
+      .map(child => {
+        if (child.name === 'w:ins') {
+          return child.children.map(child => handlePropertyElement(child, numbering, styles));
+        } else if (child.name === 'w:del') {
+          // Ignore for now
+          return null;
+        }
+        return handlePropertyElement(child, numbering, styles);
+      })
+      // Ignore for now
+      .filter(c => !!c),
+  );
   const index = children.findIndex(c => (c && c.type) === 'ParagraphProperty');
   const property = children[index] as ParagraphProperty;
   if (index > 0) {
