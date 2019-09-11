@@ -177,9 +177,10 @@ function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styl
   const children = _.flatten(
     // FIXME: refactor later
     el.children
-      .map(child => {
+      .map((child: any) => {
         if (child.name === 'w:ins') {
-          return child.children.map(child => handlePropertyElement(child, numbering, styles));
+          return child.children.map((child: any) => handlePropertyElement(child, numbering, styles));
+
         } else if (child.name === 'w:del') {
           // Ignore for now
           return null;
@@ -189,7 +190,7 @@ function readParagraph(el: OOElement, numbering: Numberings | null, styles: Styl
       // Ignore for now
       .filter(c => !!c),
   );
-  const index = children.findIndex(c => (c && c.type) === 'ParagraphProperty');
+  const index = children.findIndex((c: any) => (c && c.type) === 'ParagraphProperty');
   const property = children[index] as ParagraphProperty;
   if (index > 0) {
     children.splice(index, 1);
