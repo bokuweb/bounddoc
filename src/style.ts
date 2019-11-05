@@ -1,6 +1,7 @@
 import * as zip from './zip';
 import { xmlFileReader } from './xml-reader';
 import { OOElement } from './xml/nodes';
+import { createParagraphIndent, Indent } from './models/indent';
 
 export async function readStyles(file: zip.Zip, path: string) {
   const element = await xmlFileReader(file, path);
@@ -34,6 +35,7 @@ export type Style = {
   name: string;
   property: {
     alignment: string | null;
+    indent: Indent | null;
   };
 };
 
@@ -57,6 +59,7 @@ function readStyleElement(styleElement: OOElement) {
   const styleId = styleElement.attributes['w:styleId'];
   const name = styleName(styleElement);
   const pPr = styleElement.first('w:pPr');
+  const indent = (pPr && createParagraphIndent(pPr)) || null;
   let alignment: string | null = null;
   let numId: string = '';
   if (pPr) {
@@ -73,6 +76,7 @@ function readStyleElement(styleElement: OOElement) {
     name,
     property: {
       alignment,
+      indent,
     },
   };
 }
