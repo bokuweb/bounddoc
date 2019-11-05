@@ -216,6 +216,10 @@ function readParagraphProperty(el: OOElement, numbering: Numberings | null, styl
     // See, https://github.com/mwilliamson/mammoth.js/pull/184
     num = findNumberingByStyleId(numbering, styleId);
   }
+  let indent = readParagraphIndent(el);
+  if (styleId !== null && styles !== null && !indent && !!styles[styleId].property.indent) {
+    indent = styles[styleId].property.indent;
+  }
   const styleAlignment = (style && style.property && style.property.alignment) || null;
   return {
     type: 'ParagraphProperty',
@@ -223,7 +227,7 @@ function readParagraphProperty(el: OOElement, numbering: Numberings | null, styl
     styleName,
     alignment: el.findValueOf('w:jc') || styleAlignment || null,
     numbering: num,
-    indent: readParagraphIndent(el),
+    indent,
     spacing: spacingEl ? readSpacingProperty(spacingEl) : null,
   };
 }
