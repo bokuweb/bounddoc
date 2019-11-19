@@ -27,7 +27,7 @@ export class OOElement {
   findValueOf(name: string, valueName = 'w:val') {
     const v = this.first(name);
     if (!v) return null;
-    return v.attributes[valueName] || null;
+    return v.attributes[valueName] || 'true';
   }
 
   getElementByTagName(name: string): OOElement | undefined {
