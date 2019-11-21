@@ -17,6 +17,7 @@ export type Indent = ReturnType<typeof readParagraphIndent> | null;
 export type ParagraphAttributes = {
   styleId: string | null;
   styleName: string | null;
+  style: Style | null;
   alignment: string | null;
   numbering: NumberingProperty | null;
   indent: Indent;
@@ -217,13 +218,14 @@ function readParagraphProperty(el: OOElement, numbering: Numberings | null, styl
     num = findNumberingByStyleId(numbering, styleId);
   }
   let indent = readParagraphIndent(el);
-  if (styleId !== null && styles !== null && !indent && !!styles[styleId].property.indent) {
-    indent = styles[styleId].property.indent;
-  }
+  // if (styleId !== null && styles !== null && !indent && !!styles[styleId].property.indent) {
+  //   indent = styles[styleId].property.indent;
+  // }
   const styleAlignment = (style && style.property && style.property.alignment) || null;
   return {
     type: 'ParagraphProperty',
     styleId,
+    style,
     styleName,
     alignment: el.findValueOf('w:jc') || styleAlignment || null,
     numbering: num,
