@@ -14,6 +14,8 @@ export type Spacing = ReturnType<typeof readSpacingProperty> | null;
 
 export type Indent = ReturnType<typeof readParagraphIndent> | null;
 
+export type Style = Style;
+
 export type ParagraphAttributes = {
   styleId: string | null;
   styleName: string | null;
