@@ -2,6 +2,8 @@ import _ from 'lodash';
 import { OOElement } from './xml/nodes';
 
 import { createParagraphIndent } from './models/indent';
+import { createUnderline, Underline } from './models/underline';
+import { createHighlight, Highlight } from './models/highlight';
 
 import { Styles, Style } from './style';
 import { Numberings, findLevel, NumberingLevel } from './numbering';
@@ -41,8 +43,9 @@ export type Run = {
   verticalAlignment: string | null;
   font: string | null;
   color: string | null;
+  underline: Underline | null;
+  highlight: Highlight | null;
   isBold: boolean;
-  isUnderline: boolean;
   isItalic: boolean;
   isStrikethrough: boolean;
   isSmallCaps: boolean;
@@ -57,7 +60,8 @@ export type RunProperty = {
   font: string | null;
   color: string | null;
   isBold: boolean;
-  isUnderline: boolean;
+  underline: Underline | null;
+  highlight: Highlight | null;
   isItalic: boolean;
   isStrikethrough: boolean;
   isSmallCaps: boolean;
@@ -290,7 +294,8 @@ function readTextRunProperty(el: OOElement, styles: Styles | null) {
     font: el.findValueOf('w:rFonts'),
     color: el.findValueOf('w:color'),
     isBold: toBoolean(el.findValueOf('w:b')),
-    isUnderline: toBoolean(el.findValueOf('w:u')),
+    underline: createUnderline(el),
+    highlight: createHighlight(el),
     isItalic: toBoolean(el.findValueOf('w:i')),
     isStrikethrough: toBoolean(el.findValueOf('w:strike')),
     isSmallCaps: toBoolean(el.findValueOf('w:smallCaps')),
